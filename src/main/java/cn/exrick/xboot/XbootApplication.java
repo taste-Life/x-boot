@@ -25,6 +25,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 public class XbootApplication {
 
     public static void main(String[] args) {
+		//66666
         SpringApplication.run(XbootApplication.class, args);
     }
 }
